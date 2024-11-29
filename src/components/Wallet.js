@@ -1,6 +1,6 @@
 import React from "react";
 import { Dropdown, Stack, Spinner } from "react-bootstrap";
-import { NotificationSuccess } from "./utils/Notifications";
+import { NotificationSuccess } from "../utils/Notifications";
 import { toast } from "react-toastify";
 
 const Wallet = ({ address, amount, symbol, destroy }) => {

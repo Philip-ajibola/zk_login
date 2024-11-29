@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from "react";
-import { Notification } from "./components/utils/Notifications";
+import { Notification } from "./utils/Notifications";
 import "./App.css";
 
 const App = () => {
